@@ -2,3 +2,6 @@ dist
 node_modules
 .env
 .sap-session-cache.json
+test-api.ts
+/generated/prisma
+prisma/dev.db
